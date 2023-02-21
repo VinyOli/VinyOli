@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name's Vinicius, but call me Viny.
 - 🔭 I’m currently working on my personal upgrade
 - 🌱 I’m currently learning JavaScript and Angular
 - 📫 How to reach me: viniciusoliveira034@gmail.com
